@@ -3,7 +3,7 @@
 <!--
 **edenxcodes/edenxcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on finance app
 - 🌱 I’m currently learning web 3
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @edenxcodes on twitter
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy coding
--->
+
