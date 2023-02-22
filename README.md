@@ -12,6 +12,6 @@ Here are some ideas to get you started: -->
 ✦  👍🏽 Ask me about CSS <br>
 ✦  📭 How to reach me: @edenxcodes on twitter <br>
 ✦  🥱 Pronouns: He/Him/His <br>
-✦  🍿 Fun fact: I enjoy coding
+✦  🍿 Fun fact: I enjoy coding <br>
 ✦  🥷🏼 Gaining a blackbelt in web3
 
