@@ -13,5 +13,5 @@ Here are some ideas to get you started: -->
 ✦  📭 How to reach me: @edenxcodes on twitter <br>
 ✦  🥱 Pronouns: He/Him/His <br>
 ✦  🍿 Fun fact: I enjoy coding <br>
-✦  🎯 Gaining a blackbelt in web3
+✦  🎯 Target: Gaining a blackbelt in web3
 
