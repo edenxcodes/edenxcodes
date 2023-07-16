@@ -7,11 +7,11 @@ Here are some ideas to get you started: -->
 
 ✦  🚀 I’m currently working on open source projects <br>
 ✦  🌱 I’m currently learning web 3 <br>
-✦  🤖 I’m looking to collaborate on robotic projects <br>
-✦  👀 I’m looking for help with Github swags <br>
-✦  👍🏽 Ask me anything about CSS <br>
+✦  🤖 I’m looking to collaborate on any project <br>
+✦  👀 I’m would love some Github swags if you have any to share<br>
+✦  👍🏽 Ask me anything about html<br>
 ✦  📭 How to reach me: @edenxcodes on twitter <br>
-✦  🥱 Pronouns: He/Him/His <br>
+✦  🥱 I'm learning in public <br>
 ✦  🍿 Fun fact: I enjoy coding <br>
-✦  🎯 Target: Gaining a blackbelt in web3
+✦  🎯 Target: Open to internship roles
 
