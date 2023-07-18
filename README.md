@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 ✦  🚀 I’m currently working on open source projects <br>
-✦  🌱 I’m currently learning in public <br>
+✦  🌱 Budding and building in public <br>
 ✦  🤖 I’m looking to collaborate on any project <br>
 ✦  👀 I’m would love some Github swags if you have any to share<br>
 ✦  👍🏽 Ask me anything about html<br>
