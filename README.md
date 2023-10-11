@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started: -->
 
-✦  🚀 I’m currently contributiong to open source projects <br>
+✦  🚀 I’m currently contributing to open source projects <br>
 ✦  🌱 Budding and building in public <br>
-✦  🤖 I’m looking to collaborate on any project <br>
-✦  👀 I would love some Github swags (hoodie)<br>
-✦  👍🏽 Ask me anything about html<br>
-✦  📭 How to reach me: @edenxcodes on twitter <br>
-✦  🥱 I'm interested in arts <br>
+✦  🤖 looking to collaborate on any project <br>
+✦  👀 I would love some Github swags 😎 (hoodie)<br>
+✦  👍🏽 Ask me anything about Frontend <br>
+✦  📭 How to reach me? Check @edenxcodes on twitter <br>
+✦  🥱 I love arts and architecture <br>
 ✦  🍿 Fun fact: I enjoy coding <br>
 ✦  🎯 Target: Open to internship roles 🔱
 
