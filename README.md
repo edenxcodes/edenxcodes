@@ -9,9 +9,9 @@ Here are some ideas to get you started: -->
 ✦  🌱 Budding and building in public <br>
 ✦  🤖 looking to collaborate on any project <br>
 ✦  👀 I would love some Github swags 😎 (hoodie)<br>
-✦  👍🏽 Ask me anything about Frontend <br>
+✦  👍🏽 Ask me anything about JavaScript <br>
 ✦  📭 How to reach me? Check @edenxcodes on twitter <br>
-✦  🥱 I love arts and architecture <br>
+✦  💙 I love arts and architecture <br>
 ✦  🍿 Fun fact: I enjoy coding <br>
 ✦  🎯 Target: Open to internship roles 🔱
 
