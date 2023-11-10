@@ -12,6 +12,6 @@ Here are some ideas to get you started: -->
 ✦  👍🏽 Ask me anything about JavaScript <br>
 ✦  📭 How to reach me? Check @edenxcodes on twitter <br>
 ✦  💙 I love arts and architecture <br>
-✦  🍿 Fun fact: I enjoy breaking down complex subjects <br>
+✦  🍿 Fun fact: I enjoy breaking down complex subjects → Technical Writing <br>
 ✦  🎯 Target: Open to internship roles 🔱
 
